@@ -1,0 +1,4 @@
+DEPLOYMENT_URL=https://console.core-int.cloud.code42.com
+DEPLOYMENT_POLICY_TOKEN=1f94e8f0-e3a6-46d4-9c63-53e7725fb956
+DEPLOYMENT_SECRET=biBOduxF4NeD4JgEyhwcgQ0TnM5LTnsxBF7Cqbx94co=
+PROVIDED_USERNAME=hvswin1@code42.cohjgfvchygtfvcjmnm
